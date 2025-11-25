@@ -55,3 +55,5 @@ Lastly, will just do minimal customization to the 3D object!
 Congratulations, you have completed the Basic Extrude 3D Model task!
 
 <img src="./img/Basic_Extrude_Final.png" alt="brace" width="400"/>
+
+To prepare for a 3D Print Job, you'll need to the save the file as an "STL" file to your computer and upload it to your designated 3D printer.
