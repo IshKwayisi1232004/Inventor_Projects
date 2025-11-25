@@ -27,6 +27,9 @@ Well we have the shape, but the its not fully constrained. Meaning we can't extr
 - Next, enter a value of 80 inches. This will also update the line perpendicular to it as well.
 - Now we need to add a dimension to the arc. Repeat the past two steps, but this time enter 30 inches as the dimension.
 
+Your sketch should look like this: 
+
+
 Now that the dimensions of the brace have been fully constrained, lets finish the sketch!
 
 **5. Finish The Sketch**
