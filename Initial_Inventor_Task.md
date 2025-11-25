@@ -7,7 +7,7 @@ Here's what you want to do when to start this 3D model:
 
 **1. Begin 2D Sketch**
 - Click "start 2D Sketch"
-- Use the XY plane to start your sketch
+- Use the YZ plane to start your sketch
 
 **2. Draw Lines**
 - Click on the "line" button to draw three lines:
@@ -28,7 +28,7 @@ Well we have the shape, but the its not fully constrained. Meaning we can't extr
 - Now we need to add a dimension to the arc. Repeat the past two steps, but this time enter 30 inches as the dimension.
 
 Your sketch should look like this: 
-
+<img src="./img/Brace_Creation_1.png" alt="brace" width="400"/>
 
 Now that the dimensions of the brace have been fully constrained, lets finish the sketch!
 
