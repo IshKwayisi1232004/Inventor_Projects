@@ -1,7 +1,7 @@
 # Initial Inventor Task (Basic Extrude)
 
 ### Create a Sketch 
-<img src="./img/Brace_Creation_1.png" alt="brace" width="400"/>
+<img src="./img/Basic_Extrude_1.png" alt="brace" width="400"/>
 
 Here's what you want to do when to start this 3D model:
 
@@ -28,7 +28,8 @@ Well we have the shape, but the its not fully constrained. Meaning we can't extr
 - Now we need to add a dimension to the arc. Repeat the past two steps, but this time enter 30 inches as the dimension.
 
 Your sketch should look like this: 
-<img src="./img/Brace_Creation_1.png" alt="brace" width="400"/>
+
+<img src="./img/Basic_Extrude_2.png" alt="brace" width="400"/>
 
 Now that the dimensions of the brace have been fully constrained, lets finish the sketch!
 
@@ -42,6 +43,8 @@ Now for some more fun!
 - Upon doing this, you'll be asked the length of the extrusion, enter 10 inches.
 - Click the ok button to finish the extrusion
 
+<img src="./img/Basic_Extrude_3.png" alt="brace" width="400"/>
+
 Lastly, will just do minimal customization to the 3D object!
 
 **7. Material Customization**
@@ -50,3 +53,5 @@ Lastly, will just do minimal customization to the 3D object!
 - Right click on the root file and select properties and switch to the physical tab to update the 3D mesh
 
 Congratulations, you have completed the Basic Extrude 3D Model task!
+
+<img src="./img/Basic_Extrude_Final.png" alt="brace" width="400"/>
